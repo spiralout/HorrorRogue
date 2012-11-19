@@ -1,0 +1,8 @@
+WALL = '#'
+DARKWALL = '&'
+FLOOR = '.'
+OPENFLOOR = ','
+STAIRSUP = '<'
+STAIRSDOWN = '>'
+DOOR = '+'
+OPENDOOR = '-'
